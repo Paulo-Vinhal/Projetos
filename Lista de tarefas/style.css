@@ -1,0 +1,16 @@
+body{
+    color: black;
+}
+
+#container{
+    padding: 10px;
+}
+
+#painel{
+    background-color: aqua;
+    padding: 20px;
+}
+
+#tarefas{
+    background-color: blueviolet;
+}   
