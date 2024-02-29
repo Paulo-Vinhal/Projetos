@@ -1,0 +1,17 @@
+body{
+    padding: 200px;
+}
+
+#container{
+    display: inline-block;
+    padding: 20px;
+}
+
+#btn{
+    margin-top: 10px;
+}
+
+#corFundo, #elementoCor{
+    margin-top: 5px;
+}
+
